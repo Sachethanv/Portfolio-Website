@@ -12,3 +12,12 @@ with col2:
     Hi, I’m Sachethan, an 18-year-old from Bengaluru, studying at Global Academy of Technology. I have a passion for Python programming and aim to become a top machine learning engineer. I've already worked on a few exciting machine learning and deep learning projects, and I’m eager to take my skills to the next level and build innovative solutions.
     """
     st.info(content)
+
+
+
+content2 = """
+Below You can find some of the apps i have built in python
+"""
+
+st.write(content2)
+
