@@ -28,7 +28,7 @@ with col1:
 with col2:
     st.title("Sachethan")
     content = """
-    Hi, I’m Sachethan, an 18-year-old from Bengaluru, studying at Global Academy of Technology. I have a passion for Python programming and aim to become a top machine learning engineer. I've already worked on a few exciting machine learning and deep learning projects, and I’m eager to take my skills to the next level and build innovative solutions.
+     Hi, I’m Sachethan, an 18-year-old from Bengaluru with a strong passion for Python programming and machine learning. I have hands-on experience with a variety of projects, ranging from predictive models to automation solutions. While I continuously strive to expand my knowledge and tackle new challenges, I also focus on building practical, real-world applications that bridge the gap between theory and execution. I’m committed to mastering the ever-evolving tech landscape and look forward to contributing innovative solutions across diverse domains.
     """
     st.info(content)
 
@@ -54,14 +54,14 @@ df = pd.read_csv("data.csv", sep=";")
 
 
 with col3:
-    for index, row in df[:10].iterrows():
+    for index, row in df[:3].iterrows():
         st.header(row["title"])  # Access the title as a column in the DataFrame
         st.write(row["description"])
         st.image("images/" + row["image"])
         st.write(f"[Source Code]({row['url']})")
 
 with col4:
-    for index, row in df[10:].iterrows():
+    for index, row in df[3:].iterrows():
         st.header(row["title"])  # Access the title as a column in the DataFrame
         st.write(row["description"])
         st.image("images/"+row["image"])
