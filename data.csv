@@ -4,4 +4,4 @@ PDF Templates;A  script that generates PDF templates of multiple pages given som
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Sachethanv/app4-Invoice-generator;4.png
 Number Series Prdictor;A smart tool that analyzes patterns in number sequences to predict the next values with accuracy.;https://github.com/Sachethanv/number-series-predictor;Number series.png
 Car Number Plate Recognizer;A script that detects and extracts vehicle registration numbers from images or videos using computer vision.;https://github.com/Sachethanv/Car-Number-Plate_Recogniser;number plate recogniser.jpeg
-Carrom Pawn Recognizer;A computer vision model that identifies and tracks carrom pawns during gameplay for analysis or automation.;https://github.com/Sachethanv/Carrom-Pawns-Recogniser;Carromfinal.jpeg
+Carrom Pawn Recognizer;A computer vision model that identifies and tracks carrom pawns during gameplay for analysis or automation.;https://github.com/Sachethanv/Carrom-Pawns-Recogniser;carromfinal.jpeg
