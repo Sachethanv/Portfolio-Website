@@ -1,8 +1,13 @@
 title;description;url;image
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/Sachethanv/App-1-Todo;1.png
-PDF Templates;A  script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/Sachethanv/App3-Pdf-template;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Sachethanv/app4-Invoice-generator;4.png
-Number Series Prdictor;A smart tool that analyzes patterns in number sequences to predict the next values with accuracy.;https://github.com/Sachethanv/number-series-predictor;Number series.png
-Car Number Plate Recognizer;A script that detects and extracts vehicle registration numbers from images or videos using computer vision.;https://github.com/Sachethanv/Car-Number-Plate_Recogniser;number plate recogniser.jpeg
+Number Series Predictor;A smart tool that analyzes patterns in number sequences to predict the next values with accuracy.;https://github.com/Sachethanv/number-series-predictor;Number series.png
 Carrom Pawn Recognizer;A computer vision model that identifies and tracks carrom pawns during gameplay for analysis or automation.;https://github.com/Sachethanv/Carrom-Pawns-Recogniser;carromfinal.jpeg
+Studnet Management System;A PyQt6-based Student Management System with SQLite integration for adding, editing, searching, and deleting student records.;https://github.com/Sachethanv/Student-management-System;13.png
+Car Number Plate Recognizer;A script that detects and extracts vehicle registration numbers from images or videos using computer vision.;https://github.com/Sachethanv/Car-Number-Plate_Recogniser;number plate recogniser.jpeg
+Webcam Alert App;A motion detection system using OpenCV that captures images of detected movement, sends email alerts with the captured images, and periodically cleans up stored images using multithreading.;https://github.com/Sachethanv/app-9-webcam-alert;11.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Sachethanv/app4-Invoice-generator;4.png
 Daily News Email Automation with API Integration;Automated daily news email delivery system using an API for personalized updates.;https://github.com/Sachethanv/app5-news-email-api;5.png
+Weather Data Api;A Flask API that serves temperature data from weather stations, allowing retrieval by station, date, or year.;https://github.com/Sachethanv/app-6-Weather-Data-Api;6.png
+Weather Forecast Dashboard;A Streamlit weather forecasting app that retrieves and visualizes temperature or sky conditions for a selected location over the next few days using Plotly charts and images.;https://github.com/Sachethanv/app-7-Weather-Forecast-Dashboard;7.png
+Hotel Booking System;A hotel booking system that checks availability, processes payments, and generates reservation tickets using CSV data.;https://github.com/Sachethanv/Hotel-Booking-System;15.png
+Tesla Stock Price Predictor;A Flask app that predicts stock prices using a pre-trained ML model based on user-input features.;https://github.com/Sachethanv/TSLA-stock-price-predictor;Tsla.jpeg
